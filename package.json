@@ -1,0 +1,16 @@
+{
+  "name": "chemtable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service-worker.js",
+  "homepage": "https://listkelvin.github.io/ChemTable",
+  "scripts": {
+    "deploy": "gh-pages -d build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Minh Pham",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
